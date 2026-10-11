@@ -1,2 +1,2 @@
-# app1
-preservaion of app1
+# AI Content generator
+    codes related to the project
